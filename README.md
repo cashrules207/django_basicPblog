@@ -1,3 +1,5 @@
+![alt text](https://cloud.githubusercontent.com/assets/26504437/24080061/f4f8e0aa-0c96-11e7-8980-f08f3880893f.jpg "Django blog")
+
 ## Django Basic Blog
 ------
 ### This is a basic django blog designed by **Theoderic Onipe**.
